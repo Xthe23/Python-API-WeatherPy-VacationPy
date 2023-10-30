@@ -62,6 +62,12 @@ For the complete code, please [click here](https://github.com/Xthe23/python-api-
 # Part 2: VacationPy
 In this section, we use the weather data to plan future vacations using the geoViews library and the Geoapify API.
 
+### Hotel Locations in Global Cities Based on Humidity Levels
+
+<div align="center">
+    <img src="https://github.com/Xthe23/python-api-challenge/blob/main/Resources/Fig5.png" width="800">
+</div>
+
 Below is a snippet of the `VacationPy.ipynb` file used in this project. 
 For the complete code, please [click here](https://github.com/Xthe23/python-api-challenge/blob/main/VacationPy.ipynb).
 
